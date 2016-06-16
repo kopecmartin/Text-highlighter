@@ -1,0 +1,21 @@
+##Official_tests
+ - added few new tests
+
+```
+./_stud_tests.sh
+```
+
+##SYN_TEST.py
+
+```
+./SYN_TEST.py
+```
+
+##other_tests
+ - made by Jozef Zuzelka
+
+```
+./test.sh (p|r) <file to be tested>
+```
+note: there is few tests which expect input, so Ctr+D skips them
+

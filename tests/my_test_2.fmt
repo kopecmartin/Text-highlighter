@@ -1,0 +1,4 @@
+%t	bold
+%n	italic
+%.|%!|%||%*	underline
+%+|%(|%)	teletype
